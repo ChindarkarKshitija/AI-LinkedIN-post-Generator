@@ -1,5 +1,5 @@
 ```markdown
-# AI-Powered LinkedIn Post Generator
+# GEN-AI PROJECT: AI-Powered LinkedIn Post Generator
 
 Transform your ideas, projects, and experiences into polished, engaging LinkedIn posts using AI.  
 This tool helps students and professionals quickly create high-quality posts with the right tone, structure, and hashtags.
@@ -20,7 +20,6 @@ It uses prompt-engineered LLMs and simple preprocessing to analyse your writing 
 ## 📁 Project Structure
 ```
 
-```
 
 linkedin-post-generator/
 │
@@ -38,7 +37,7 @@ linkedin-post-generator/
 └── README.md                    # Documentation
 
 ```
-```
+
 
 
 ````
@@ -175,3 +174,4 @@ MIT License
 #   A I - L i n k e d I N - p o s t - G e n e r a t o r 
  
  
+
