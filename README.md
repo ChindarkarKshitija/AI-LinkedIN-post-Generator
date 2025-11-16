@@ -19,7 +19,7 @@ It uses prompt-engineered LLMs and simple preprocessing to analyse your writing 
 
 ## 📁 Project Structure
 ```
-
+```
 
 linkedin-post-generator/
 │
@@ -35,7 +35,7 @@ linkedin-post-generator/
 │
 ├── requirements.txt             # Dependencies
 └── README.md                    # Documentation
-
+```
 ```
 
 
@@ -174,4 +174,5 @@ MIT License
 #   A I - L i n k e d I N - p o s t - G e n e r a t o r 
  
  
+
 
